@@ -1,6 +1,6 @@
 # Hi there, I'm Niranchan 👋
 
-## AKA c4rb0n, Cybersecurity Enthusiast and Student at Kongu Engineering College
+## AKA c4rb0n, Cybersecurity Enthusiast.
 
 I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in cybersecurity. Check out my Github profile where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
 
