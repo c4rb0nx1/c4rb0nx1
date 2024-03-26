@@ -4,7 +4,7 @@
 
 ### 🌱 About Me
 
-I am a dedicated and passionate studenta who actively pursues academic and professional progress in the IT field while being motivated by his passion for DevOps, Networking, cybersecurity, cloud computing and eager to participate in real-time projects and acquire real-world experience in preparation for a career for DevOps. Currently assisting in the creation of an AWS serverless web application.
+I am a dedicated and passionate student who actively pursues academic and professional progress in the IT field while being motivated by his passion for DevOps, Networking, cybersecurity, cloud computing and eager to participate in real-time projects and acquire real-world experience in preparation for a career for DevOps. Currently assisting in the creation of an AWS serverless web application.
 
 ### 🎯 Engaged Towards
 
