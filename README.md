@@ -1,12 +1,12 @@
 # Hi there, I'm Niranchan 👋
 
-## AKA c4rb0n, Cloud/Cybersecurity Enthusiast.
+## AKA c4rb0n, DevOps | Cloud | Cybersecurity Enthusiast.
 
-I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in cybersecurity. Check out my Github profile where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
+I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in various domains. Check out my Repo's where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
 
 ### 🌱 About Me
 
-I am a dedicated and passionate student currently pursuing a Bachelor of Engineering degree in Computer Science and Design (BE.CSD) at Kongu Engineering College. Residing in the vibrant Union Territory of Puducherry, I am enthusiastic about exploring new technologies, developing innovative solutions to address modern challenges in the tech industry, and constantly learning from my experiences. As a cybersecurity enthusiast and a motivated learner, I am committed to expanding my knowledge and skills in areas such as networking, IoT, and artificial intelligence, while actively participating in projects and competitions that hone my abilities and contribute to my personal and professional growth.
+I am a dedicated and passionate studenta who actively pursues academic and professional progress in the IT field while being motivated by his passion for DevOps, Networking, cybersecurity, cloud computing and eager to participate in real-time projects and acquire real-world experience in preparation for a career for DevOps. Currently assisting in the creation of an AWS serverless web application.
 
 ### 🎯 Engaged Towards
 
