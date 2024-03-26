@@ -2,8 +2,6 @@
 
 ## AKA c4rb0n, DevOps | Cloud | Cybersecurity Enthusiast.
 
-I'm captivated by the intricate nature of the digital world and always eager to expand my knowledge in various domains. Check out my Repo's where I develop and collaborate on projects related to my interests. Join me on my journey to explore and understand the intricacies of cybersecurity.
-
 ### 🌱 About Me
 
 I am a dedicated and passionate studenta who actively pursues academic and professional progress in the IT field while being motivated by his passion for DevOps, Networking, cybersecurity, cloud computing and eager to participate in real-time projects and acquire real-world experience in preparation for a career for DevOps. Currently assisting in the creation of an AWS serverless web application.
