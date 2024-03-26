@@ -8,13 +8,12 @@ I am a dedicated and passionate studenta who actively pursues academic and profe
 
 ### 🎯 Engaged Towards
 
-- Web Application Penetration Testing
+- Cloud (AWS)
+- Automation (python scripting to automate mundane tasks )
+- HomeLab (Managing my own private server that runs all my scripts and services)
 - Network Penetration Testing
-- IoT Security
-- Artificial Intelligence
-- Cybersecurity Competitions
+- Artificial Intelligence 
 - Academic Projects
-- ... (more to be added soon)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4rb0nx1&label=Profile%20views&color=0e75b6&style=flat" alt="c4rb0nx1" /> </p>
 
